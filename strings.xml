@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قبلہ نور</string>
+
+    <string name="tab_prayer">نماز</string>
+    <string name="tab_qibla">قبلہ</string>
+    <string name="tab_tasbeeh">تسبیح</string>
+    <string name="tab_azkar">اذکار</string>
+    <string name="tab_more">مزید</string>
+
+    <string name="fajr">فجر</string>
+    <string name="sunrise">طلوعِ آفتاب</string>
+    <string name="dhuhr">ظہر</string>
+    <string name="asr">عصر</string>
+    <string name="maghrib">مغرب</string>
+    <string name="isha">عشاء</string>
+
+    <string name="next_prayer">اگلی نماز: %1$s، وقت %2$s</string>
+    <string name="next_prayer_tomorrow">اگلی نماز: %1$s، کل %2$s پر</string>
+    <string name="hijri_date">ہجری: %1$d %2$s %3$d ھ</string>
+    <string name="location_default">لاہور کے اوقات (ڈیفالٹ) دکھائے جا رہے ہیں۔ درست نتائج کے لیے لوکیشن کی اجازت دیں۔</string>
+    <string name="location_ok">آپ کی موجودہ لوکیشن استعمال ہو رہی ہے</string>
+    <string name="allow_location">لوکیشن کی اجازت دیں</string>
+    <string name="method">حساب کا طریقہ</string>
+    <string name="method_karachi">کراچی</string>
+    <string name="method_mwl">مسلم ورلڈ لیگ</string>
+    <string name="asr_hanafi">عصر (حنفی)</string>
+
+    <string name="qibla_direction">قبلہ کی سمت: شمال سے %1$d° پر</string>
+    <string name="distance_kaaba">کعبہ تک فاصلہ: %1$d کلومیٹر</string>
+    <string name="qibla_aligned">آپ کا رخ قبلہ کی طرف ہے</string>
+    <string name="calibrate_hint">فون کو سیدھا رکھیں۔ اگر سوئی درست نہ ہو تو فون کو 8 کے ہندسے کی شکل میں گھمائیں۔</string>
+    <string name="no_sensor">اس فون میں کمپاس سینسر نہیں ملا۔ اوپر دی گئی سمت کسی اور کمپاس کے ساتھ استعمال کریں۔</string>
+
+    <string name="tap_to_count">گننے کے لیے دبائیں</string>
+    <string name="rounds">چکر: %1$d</string>
+    <string name="reset">دوبارہ شروع</string>
+
+    <string name="names_title">اللہ کے 99 نام</string>
+    <string name="language">زبان</string>
+    <string name="about">ایپ کے بارے میں</string>
+    <string name="about_text">قبلہ نور نماز کے اوقات، قبلہ کی سمت، ہجری تاریخ، تسبیح، اذکار اور اللہ کے 99 نام دکھاتی ہے۔ نماز کے اوقات فون پر ہی نکالے جاتے ہیں، براہِ کرم اپنی مقامی مسجد سے بھی تصدیق کر لیں۔</string>
+    <string name="privacy_text">آپ کی لوکیشن صرف آپ کے فون پر نماز کے اوقات اور قبلہ نکالنے کے لیے استعمال ہوتی ہے۔ یہ کہیں نہیں بھیجی جاتی۔</string>
+
+    <string-array name="hijri_months">
+        <item>محرم</item>
+        <item>صفر</item>
+        <item>ربیع الاول</item>
+        <item>ربیع الثانی</item>
+        <item>جمادی الاول</item>
+        <item>جمادی الثانی</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان</item>
+        <item>شوال</item>
+        <item>ذوالقعدہ</item>
+        <item>ذوالحجہ</item>
+    </string-array>
+</resources>
